@@ -35,3 +35,5 @@
 ## Software Modifications
 
 As told in HC05 Bluetooth application and lcd screen application, the correct UART RX pin and LCD data pins must be selected and the corresponding GPIO clock for the HC05 module must be enabled.
+
+This software outputs only one character at a time that was sent by the user to the HC05 Bluetooth module.
